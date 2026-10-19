@@ -1,9 +1,0 @@
-{
-  "dependencies": ["../../."],
-  "graphs": {
-    "Researcher": ".././frontends/agents/researcher.py:graph",
-    "Planner": ".././frontends/agents/planner.py:graph",
-    "LinkedInWriter": ".././effective_agents/agents/8_agent.py:graph_no_checkpointer"
-  },
-  "env": ".././.env"
-}
